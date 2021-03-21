@@ -1,0 +1,5 @@
+clx_sdk_xms==1.0.0
+PyAutoGUI==0.9.52
+requests==2.18.4
+numpy==1.13.3
+clx==0.0.1
